@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+<AnchorPane id="AnchorPane"
+  prefWidth="640"
+  prefHeight="480"
+  styleClass="content"
+  xmlns:fx="http://javafx.com/fxml/1"
+  fx:controller="ru.sfedu.nanotechnology.controller.tab.SettingsController">
+  <stylesheets>
+    <URL value="@../Styles.css"/>
+  </stylesheets>
+  <children>
+      <AnchorPane>
+      </AnchorPane>      
+  </children>
+</AnchorPane>
